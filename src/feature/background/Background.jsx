@@ -58,6 +58,7 @@ const videoList = [
 function Background() {
   return (
     <div>
+      <p>12323</p>
       <BackgroundVideo videoList={videoList} />
     </div>
   );
